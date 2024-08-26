@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DesafioResistores",
+            "request": "launch",
+            "mainClass": "DesafioResistores",
+            "projectName": "DesafiosSupera_4624feb8"
+        },
+        {
+            "type": "java",
+            "name": "DesafioSnail",
+            "request": "launch",
+            "mainClass": "DesafioSnail",
+            "projectName": "DesafiosSupera_4624feb8"
+        }
+    ]
+}
